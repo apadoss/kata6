@@ -15,4 +15,10 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz(3);
         assertEquals("Fizz", fizzBuzz.compute());
     }
+
+    @Test
+    public void should_return_buzz_given_divisible_by_5() {
+        FizzBuzz fizzBuzz = new FizzBuzz(5);
+        assertEquals("Buzz", fizzBuzz.compute());
+    }
 }

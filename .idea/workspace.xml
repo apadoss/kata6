@@ -1,11 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="001221e0-0d72-4103-9b70-337b6f288e70" name="Changes" comment="" />
+    <list default="true" id="001221e0-0d72-4103-9b70-337b6f288e70" name="Changes" comment="2nd TDD cycle completed">
+      <change beforePath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/FizzBuzz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/software/ulpgc/kata6/FizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FizzBuzzTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2b8y4f55hUaZUPgj7C67DImCrJ0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -28,6 +44,37 @@
       <option name="presentableId" value="Default" />
       <updated>1705610812909</updated>
     </task>
+    <task id="LOCAL-00001" summary="1st TDD cycle completed">
+      <created>1705610980412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705610980412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2nd TDD cycle completed">
+      <created>1705611075888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705611075888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1st TDD cycle completed" />
+    <MESSAGE value="2nd TDD cycle completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="2nd TDD cycle completed" />
   </component>
 </project>
