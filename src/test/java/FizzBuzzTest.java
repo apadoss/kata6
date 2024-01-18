@@ -21,4 +21,10 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz(5);
         assertEquals("Buzz", fizzBuzz.compute());
     }
+
+    @Test
+    public void should_return_fizzbuzz_given_divisible_by_3_and_5() {
+        FizzBuzz fizzBuzz = new FizzBuzz(15);
+        assertEquals("Fizzbuzz", fizzBuzz.compute());
+    }
 }
