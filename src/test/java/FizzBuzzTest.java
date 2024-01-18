@@ -9,4 +9,10 @@ public class FizzBuzzTest {
         FizzBuzz fizzBuzz = new FizzBuzz(1);
         assertEquals("1", fizzBuzz.compute());
     }
+
+    @Test
+    public void should_return_fizz_given_divisible_by_3() {
+        FizzBuzz fizzBuzz = new FizzBuzz(3);
+        assertEquals("Fizz", fizzBuzz.compute());
+    }
 }
